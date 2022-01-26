@@ -1,4 +1,6 @@
 Vehicle Fleet
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/13e1528e-91fb-406a-92a2-c197ef730dfe.svg?orgId=521549019486)](https://app.soluble.cloud/repos/details/github.com/brianbyers/vehicle-fleet-demo?orgId=521549019486)  
 =============
 
 Demo system for RentMe fleet of connected rental trucks. Each truck in
